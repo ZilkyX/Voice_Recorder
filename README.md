@@ -52,7 +52,6 @@ Buttons, labels, frames, and the waveform plot integrate seamlessly with the sel
 
 This makes the app not only functional but visually appealing and customizable to user preferences.
 
-📸 Screenshots
 ![Litera Theme Screenshot](assets/output_images/Screenshot%202025-05-06%20215517.png)
 ![Darkly Theme Screenshot](assets/output_images/Screenshot%202025-05-06%20215548.png)
 ![Superhero Theme Screenshot](assets/output_images/Screenshot%202025-05-06%20215610.png)
